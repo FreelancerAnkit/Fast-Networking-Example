@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="true">Hello World!</string>
+    <string name="english_string" translatable="true">English String!</string>
+</resources>
